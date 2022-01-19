@@ -1,7 +1,7 @@
 ## Olá! Eu me chamo Caio Vitor!
 
 
-🔭 Um físico apaixonado pela programação;
+🔭 Um físico apaixonado por programação;
 
 📓 Estou em transição de carreira. Atualmente estudo o desenvolvimento Front-End e no futuro planejo ser Full Stack;
 
