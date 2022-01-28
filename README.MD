@@ -1,4 +1,4 @@
-## Olá! Eu me chamo Caio Vitor!
+## Olá! Eu me chamo Caio Vitor e bem vindo(a) ao meu GitHub!🤓
 
 
 🔭 Desenvolvedor em formação;
