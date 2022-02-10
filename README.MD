@@ -3,7 +3,7 @@
 
 🔭 Desenvolvedor em formação;
 
-📓 Estou em transição de carreira e desejo ingressar no mercado de tecnologia. Atualmente estudo o desenvolvimento Front-End e no futuro planejo ser Full Stack;
+📓 Estou em transição de carreira e almejo ingressar no mercado de tecnologia. Atualmente estudo o desenvolvimento Front-End e no futuro planejo ser Full Stack;
 
 🖥️ Aqui você encontrará os projetos desenvolvidos por mim a partir de Janeiro de 2022.
 <br>
