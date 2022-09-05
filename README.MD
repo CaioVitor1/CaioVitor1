@@ -22,7 +22,7 @@
                      
   </div>
   <br>
-  Talk with me, I am kinda awesome:<br>
+  Talk with me:<br>
   <a href="https://www.linkedin.com/in/caiovitor33" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <br>
   
