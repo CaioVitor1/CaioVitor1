@@ -2,7 +2,7 @@
  <img align='left' margin="10px" height="200" width="200"  src="https://noclinks.net/assets/img/softwaredev.gif" />
    
  I am currently a full stack web development student at the Driven Education bootcamp, expected to graduate in December 2022.
-   Here you will find more than <b>17 projects</b> developed by me in the last 5 months. I've been working on Front-End, Back-End and Full Stack projects, in technologies: <b>JavaScript Vanilla, React, NodeJs, MongoDb and PostgreSQL.</b><br> <br> 
+   Here you will find more than <b>23 projects</b> developed by me in the last 7 months. I've been working on Front-End, Back-End and Full Stack projects, in technologies: <b>JavaScript Vanilla, React, NodeJs, MongoDb and PostgreSQL.</b><br> <br> 
    <b>Fun facts about me:</b> <br><br>
       🔭  I'm graduated in physics and this area is one of my passions. <br>
       :earth_americas: I dream of working with something that positively impacts people's lives and this is one of my guides.
