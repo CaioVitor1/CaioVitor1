@@ -1,11 +1,14 @@
 ## Hello, I'm Caio and welcome to my github!🤓
- <img align='left' margin="10px" height="200" width="200"  src="https://noclinks.net/assets/img/softwaredev.gif" />
-   
- I am currently a full stack web development student at the Driven Education bootcamp, expected to graduate in December 2022.
-   Here you will find more than <b>23 projects</b> developed by me in the last 7 months. I've been working on Front-End, Back-End and Full Stack projects, in technologies: <b>JavaScript Vanilla, React, NodeJs, MongoDb and PostgreSQL.</b><br> <br> 
+ <img  margin="10px" height="200" width="200"  src="https://noclinks.net/assets/img/softwaredev.gif" />
+ 
+   <div color='blue'>
+<p> I'm a Full-Stack web developer and here you will find more than <b>23 projects</b> developed by me in the last months. I've been working on Front-End, Back-End and Full Stack projects, in technologies: <b>JavaScript Vanilla, React, NodeJs, MongoDb, PostgreSQL, Prisma (ORM), Docker and AWS</b>. Also, I have experience in <b> Unit Testing and Integration Testing</b> using jest, and <b>e2e tests</b> using cypress<br> <br> </p>
    <b>Fun facts about me:</b> <br><br>
       🔭  I'm graduated in physics and this area is one of my passions. <br>
       :earth_americas: I dream of working with something that positively impacts people's lives and this is one of my guides.
+      </div>
+      
+      
       
   <b>Languages and Tools:  
   <div>  
@@ -20,6 +23,9 @@
     <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
     <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
     <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+    <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+    <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+          
                      
   </div>
   <br>
