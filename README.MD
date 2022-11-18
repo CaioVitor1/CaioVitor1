@@ -1,6 +1,5 @@
 ## Hello, I'm Caio and welcome to my github!🤓
  <img  margin="10px" height="200" width="200"  src="https://noclinks.net/assets/img/softwaredev.gif" />
- 
    <div color='blue'>
 <p> I'm a Full-Stack web developer and here you will find more than <b>23 projects</b> developed by me in the last months. I've been working on Front-End, Back-End and Full Stack projects, in technologies: <b>JavaScript Vanilla, React, NodeJs, MongoDb, PostgreSQL, Prisma (ORM), Docker and AWS</b>. Also, I have experience in <b> Unit Testing and Integration Testing</b> using jest, and <b>e2e tests</b> using cypress<br> <br> </p>
    <b>Fun facts about me:</b> <br><br>
