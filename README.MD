@@ -8,7 +8,7 @@
       </div>
       
       
-      
+       
   <b>Languages and Tools:  
   <div>  
     <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />    
