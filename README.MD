@@ -50,8 +50,8 @@
 </picture>
    
 </div>
- <img src="https://github-readme-stats.vercel.app/api?username=CaioVitor1&show_icons=true&theme=radical" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioVitor1&theme=radical" /> 
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CaioVitor1&show_icons=true&theme=radical" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CaioVitor1&theme=radical" /> 
   
   <br>
   
